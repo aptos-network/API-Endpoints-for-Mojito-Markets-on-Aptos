@@ -6,6 +6,8 @@ Mojito Markets is a revolutionary decentralized exchange (DEX) built on the Apto
 
 Unlike many traditional centralized exchanges, Mojito Markets operates fully decentralized, empowering users to maintain complete control over their assets. Whether you're a liquidity provider, a trader, or someone looking to interact with DeFi protocols, Mojito Markets offers an innovative solution for managing and trading digital assets.
 
+https://medium.com/@jordanward07/mojito-markets-unlocking-defi-opportunities-on-aptos-network-ecf080fda789
+
 ## Key Features of Mojito Markets on Aptos
 
 - **Cross-Chain Token Swaps:** Mojito Markets supports fast and efficient cross-chain swaps, allowing users to trade APT, USDT, and other tokens between different blockchains seamlessly. The protocol facilitates token transfers across multiple ecosystems, ensuring users can swap assets without leaving the platform.
